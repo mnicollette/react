@@ -1,0 +1,20 @@
+{
+  "name": "exercicos_webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "ˆ1.14.0",
+    "webpack-dev-server": "ˆ1.16.2"
+  },
+  "dependencies": {},
+  "description": ""
+}
